@@ -21,4 +21,4 @@ Requirements
   Enter your weight in kilograms (kg).
   Enter your height in centimeters (cm).
   Click the "GO" button to calculate your BMI.
-  Your BMI will be displayed, along with a message indicating your weight status
+  Your BMI will be displayed, along with a message indicating your weight status..
